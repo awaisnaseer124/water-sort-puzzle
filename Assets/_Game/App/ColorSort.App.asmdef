@@ -1,0 +1,19 @@
+{
+    "name": "ColorSort.App",
+    "rootNamespace": "ColorSort.App",
+    "references": [
+        "ColorSort.Core",
+        "ColorSort.Services",
+        "ColorSort.Platform",
+        "ColorSort.Game"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

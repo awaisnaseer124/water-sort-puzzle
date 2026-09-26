@@ -1,0 +1,19 @@
+{
+    "name": "ColorSort.Platform",
+    "rootNamespace": "ColorSort.Platform",
+    "references": [
+        "ColorSort.Core",
+        "ColorSort.Services",
+        "UnityEngine.Advertisements",
+        "Unity.Purchasing"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

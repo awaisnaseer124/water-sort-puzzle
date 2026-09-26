@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588259b4bb5c8c94dbf56ea9fc216846, type: 3}
+  m_Name: Level_044
+  m_EditorClassIdentifier: ColorSort.Game::ColorSort.Game.Data.LevelDefinition
+  _bottles:
+  - _capacity: 4
+    _layers: 06020702y
+  - _capacity: 4
+    _layers: 0e000906y
+  - _capacity: 4
+    _layers: 06100500y
+  - _capacity: 4
+    _layers: 000b0010y
+  - _capacity: 4
+    _layers: 04070b04y
+  - _capacity: 4
+    _layers: 0b040902y
+  - _capacity: 4
+    _layers: 0204100ey
+  - _capacity: 4
+    _layers: 0705090ey
+  - _capacity: 4
+    _layers: 050b0e10y
+  - _capacity: 4
+    _layers: 05060907y
+  - _capacity: 4
+    _layers: 
+  - _capacity: 4
+    _layers: 
+  _source: Generated seed=20260957 colours=10 capacity=4 empties=2 minMoves=32
+  _optimalMoves: 33
+  _overrideStars: 0
+  _threeStarMaxMoves: 1
+  _twoStarMaxMoves: 1
+  _timeLimitSeconds: 0

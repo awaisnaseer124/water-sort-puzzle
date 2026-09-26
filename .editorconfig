@@ -1,0 +1,31 @@
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.cs]
+indent_style = space
+indent_size = 4
+
+# Unity serializes these; keep them out of style tooling
+[*.{asset,unity,prefab,meta,mat,anim,controller}]
+trim_trailing_whitespace = false
+insert_final_newline = false
+
+[*.cs]
+csharp_new_line_before_open_brace = all
+csharp_style_namespace_declarations = block_scoped
+dotnet_style_qualification_for_field = false
+dotnet_style_readonly_field = true:suggestion
+dotnet_sort_system_directives_first = true
+
+# private fields: _camelCase
+dotnet_naming_rule.private_fields.symbols = private_fields
+dotnet_naming_rule.private_fields.style = underscore_camel
+dotnet_naming_rule.private_fields.severity = suggestion
+dotnet_naming_symbols.private_fields.applicable_kinds = field
+dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+dotnet_naming_style.underscore_camel.required_prefix = _
+dotnet_naming_style.underscore_camel.capitalization = camel_case

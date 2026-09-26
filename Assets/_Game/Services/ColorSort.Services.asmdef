@@ -1,0 +1,16 @@
+{
+    "name": "ColorSort.Services",
+    "rootNamespace": "ColorSort.Services",
+    "references": [
+        "ColorSort.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

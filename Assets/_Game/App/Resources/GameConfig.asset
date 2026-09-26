@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568ffd07b518d6a4d83f7afa7d8620af, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: ColorSort.App::ColorSort.App.GameConfig
+  _levelCatalog: {fileID: 11400000, guid: 1fe512964e017c149b24ac138b1b1f6e, type: 2}
+  _simulateAdsInEditor: 1
+  _forceTestAds: 0
+  _startupGraceSeconds: 30
+  _minSecondsBetweenInterstitials: 60
+  _unityAdsGameIdAndroid: 4479419
+  _unityAdsGameIdIos: 
+  _unityAdsInterstitial: video
+  _unityAdsRewarded: rewardedVideo
+  _simulatePurchasesInEditor: 1
+  _logAnalytics: 1

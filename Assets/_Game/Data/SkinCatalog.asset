@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b73353a8fb87c745aead060eec35b40, type: 3}
+  m_Name: SkinCatalog
+  m_EditorClassIdentifier: ColorSort.Game::ColorSort.Game.Data.SkinCatalog
+  _backgrounds:
+  - {fileID: 21300000, guid: ac0f23aef1838d041b000b1d173e7891, type: 3}
+  - {fileID: 21300000, guid: 734eb6738f66d084d8623485aa533eb4, type: 3}
+  - {fileID: 21300000, guid: 7e973c871175169489d6e7f364c7d04e, type: 3}
+  - {fileID: 21300000, guid: 3e20834f33425e74790dfac522563983, type: 3}
+  - {fileID: 21300000, guid: 236af314942414f418bbbeb92e810c1c, type: 3}
+  - {fileID: 21300000, guid: a1d949e6f9b950e47a39acbe81fd9426, type: 3}
+  - {fileID: 21300000, guid: 646b190879e429345b058f3de78a57a6, type: 3}
+  _bottles:
+  - _body: {fileID: -7381254709049324205, guid: 8beeb3da058121746a047be8044dc31c, type: 3}
+    _glass: {fileID: 21300000, guid: c45befa103ddb964e9308523f3aa7964, type: 3}
+    _preview: {fileID: -7381254709049324205, guid: 8beeb3da058121746a047be8044dc31c, type: 3}
+  - _body: {fileID: 21300000, guid: 837ed248938dd2c4a99a8b11bb384ca4, type: 3}
+    _glass: {fileID: 21300000, guid: 12a3da2b76a5a0d4fb746ea883926465, type: 3}
+    _preview: {fileID: 21300000, guid: cfafba2a13d62324c92b5b24da9e17a9, type: 3}
+  - _body: {fileID: 21300000, guid: f549958e36d3790498a08e7048011f29, type: 3}
+    _glass: {fileID: 21300000, guid: 3c8e3f23ed2c4154ab76dd2bd40e4526, type: 3}
+    _preview: {fileID: 21300000, guid: 91d9c18f62ac621469de683d5d968603, type: 3}
+  - _body: {fileID: 21300000, guid: 1dda628f666200749960ad9e66d1f545, type: 3}
+    _glass: {fileID: 21300000, guid: 17dc4142946735141aa3dcdf0cd41b65, type: 3}
+    _preview: {fileID: 21300000, guid: 0927b01614868484bb6ce573586738b6, type: 3}

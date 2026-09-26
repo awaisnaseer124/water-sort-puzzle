@@ -1,0 +1,22 @@
+{
+    "name": "ColorSort.Editor",
+    "rootNamespace": "ColorSort.EditorTools",
+    "references": [
+        "ColorSort.Core",
+        "ColorSort.Services",
+        "ColorSort.Game",
+        "ColorSort.App",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
