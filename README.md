@@ -7,7 +7,9 @@ The interesting part is under the hood: the game rules are plain C# with no engi
 proven solvable by an optimal solver, new levels are generated along a difficulty curve, and the whole thing is
 covered by 200+ EditMode tests.
 
-<!-- Screenshots / a short GIF of a pour go here. -->
+[![Gameplay video](https://img.youtube.com/vi/OA0k-wRADjo/hqdefault.jpg)](https://youtu.be/OA0k-wRADjo)
+
+*Gameplay video (opens YouTube)*
 
 ## Features
 
